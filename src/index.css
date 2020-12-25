@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.date-picker {
+  height: 2.5rem;
+  text-align: center;
+  padding-top: 3px;
+  width: 11rem;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  font-size: "10px";
+}
