@@ -16,6 +16,7 @@ const App = () => {
   const url = 'https://mainnet.infura.io/v3/e020c80fc2044f7c86295e4c6adaba93'
   const web3 = new Web3(new Web3.providers.HttpProvider(url))
 
+
   return (
 
 
